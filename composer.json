@@ -16,7 +16,7 @@
 		}
 	],
 	"require": {
-		"nette/application": "2.2.1",
+		"nette/application": "2.2.2-RC",
 		"nette/bootstrap": "2.2.2-RC",
 		"nette/caching": "2.2.1",
 		"nette/component-model": "2.2.0",
@@ -25,7 +25,7 @@
 		"nette/finder": "2.2.0",
 		"nette/forms": "2.2.2-RC",
 		"nette/http": "2.2.1-RC",
-		"nette/mail": "2.2.2-RC",
+		"nette/mail": "2.2.2-RC2",
 		"nette/neon": "2.2.2-RC",
 		"nette/php-generator": "2.2.1-RC",
 		"nette/reflection": "2.2.0",
@@ -34,7 +34,7 @@
 		"nette/security": "2.2.0",
 		"nette/tokenizer": "2.2.0",
 		"nette/utils": "2.2.2-RC",
-		"latte/latte": "2.2.3-RC",
+		"latte/latte": "2.2.3-RC2",
 		"tracy/tracy": "2.2.3-RC"
 	},
 	"require-dev": {
